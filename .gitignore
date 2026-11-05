@@ -1,3 +1,7 @@
 /venv
 /clean_data.csv
 /env
+
+# macOS noise
+.DS_Store
+**/.DS_Store
